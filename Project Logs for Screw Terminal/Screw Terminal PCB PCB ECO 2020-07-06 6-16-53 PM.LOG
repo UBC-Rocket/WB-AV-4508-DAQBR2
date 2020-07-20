@@ -1,0 +1,151 @@
+Added Component: Designator=*(Header)
+Added Component: Designator=ST1(Screw Terminal)
+Added Component: Designator=ST2(Screw Terminal)
+Added Component: Designator=ST3(Screw Terminal)
+Added Component: Designator=ST4(Screw Terminal)
+Added Component: Designator=ST5(Screw Terminal)
+Added Component: Designator=ST6(Screw Terminal)
+Added Component: Designator=ST7(Screw Terminal)
+Added Pin To Net: NetName=Vout 0 Pin=*-1
+Added Pin To Net: NetName=Analog Ground 1 Pin=*-2
+Added Pin To Net: NetName=Vout 1 Pin=*-3
+Added Pin To Net: NetName=Analog Ground 2 Pin=*-4
+Added Pin To Net: NetName=Vout 2 Pin=*-5
+Added Pin To Net: NetName=Analog Ground 3 Pin=*-6
+Added Pin To Net: NetName=Vout 3 Pin=*-7
+Added Pin To Net: NetName=Analog Ground 4 Pin=*-8
+Added Pin To Net: NetName=Vout 4 Pin=*-9
+Added Pin To Net: NetName=Analog Ground 5 Pin=*-10
+Added Pin To Net: NetName=Vout 5 Pin=*-11
+Added Pin To Net: NetName=Analog Ground 6 Pin=*-12
+Added Pin To Net: NetName=Vout 6 Pin=*-13
+Added Pin To Net: NetName=Analog Ground 7 Pin=*-14
+Added Pin To Net: NetName=Vout 7 Pin=*-15
+Added Pin To Net: NetName=Analog Ground 8 Pin=*-16
+Added Pin To Net: NetName=Digital Ground 1 Pin=*-17
+Added Pin To Net: NetName=SECONDPORTA Bit 7 Pin=*-18
+Added Pin To Net: NetName=SECONDPORTA Bit 6 Pin=*-19
+Added Pin To Net: NetName=SECONDPORTA Bit 5 Pin=*-20
+Added Pin To Net: NetName=SECONDPORTA Bit 4 Pin=*-21
+Added Pin To Net: NetName=SECONDPORTA Bit 3 Pin=*-22
+Added Pin To Net: NetName=SECONDPORTA Bit 2 Pin=*-23
+Added Pin To Net: NetName=SECONDPORTA Bit 1 Pin=*-24
+Added Pin To Net: NetName=SECONDPORTA Bit 0 Pin=*-25
+Added Pin To Net: NetName=SECONDPORTB Bit 7 Pin=*-26
+Added Pin To Net: NetName=SECONDPORTB Bit 6 Pin=*-27
+Added Pin To Net: NetName=SECONDPORTB Bit 5 Pin=*-28
+Added Pin To Net: NetName=SECONDPORTB Bit 4 Pin=*-29
+Added Pin To Net: NetName=SECONDPORTB Bit 3 Pin=*-30
+Added Pin To Net: NetName=SECONDPORTB Bit 2 Pin=*-31
+Added Pin To Net: NetName=SECONDPORTB Bit 1 Pin=*-32
+Added Pin To Net: NetName=SECONDPORTB Bit 0 Pin=*-33
+Added Pin To Net: NetName=SECONDPORTC Bit 7 Pin=*-34
+Added Pin To Net: NetName=SECONDPORTC Bit 6 Pin=*-35
+Added Pin To Net: NetName=SECONDPORTC Bit 5 Pin=*-36
+Added Pin To Net: NetName=SECONDPORTC Bit 4 Pin=*-37
+Added Pin To Net: NetName=SECONDPORTC Bit 3 Pin=*-38
+Added Pin To Net: NetName=SECONDPORTC Bit 2 Pin=*-39
+Added Pin To Net: NetName=SECONDPORTC Bit 1 Pin=*-40
+Added Pin To Net: NetName=SECONDPORTC Bit 0 Pin=*-41
+Added Pin To Net: NetName=FIRSTPORTA Bit 7 Pin=*-42
+Added Pin To Net: NetName=FIRSTPORTA Bit 6 Pin=*-43
+Added Pin To Net: NetName=FIRSTPORTA Bit 5 Pin=*-44
+Added Pin To Net: NetName=FIRSTPORTA Bit 4 Pin=*-45
+Added Pin To Net: NetName=FIRSTPORTA Bit 3 Pin=*-46
+Added Pin To Net: NetName=FIRSTPORTA Bit 2 Pin=*-47
+Added Pin To Net: NetName=FIRSTPORTA Bit 1 Pin=*-48
+Added Pin To Net: NetName=FIRSTPORTA Bit 0 Pin=*-49
+Added Pin To Net: NetName=FIRSTPORTB Bit 7 Pin=*-50
+Added Pin To Net: NetName=FIRSTPORTB Bit 6 Pin=*-51
+Added Pin To Net: NetName=FIRSTPORTB Bit 5 Pin=*-52
+Added Pin To Net: NetName=FIRSTPORTB Bit 4 Pin=*-53
+Added Pin To Net: NetName=FIRSTPORTB Bit 3 Pin=*-54
+Added Pin To Net: NetName=FIRSTPORTB Bit 2 Pin=*-55
+Added Pin To Net: NetName=FIRSTPORTB Bit 1 Pin=*-56
+Added Pin To Net: NetName=FIRSTPORTB Bit 0 Pin=*-57
+Added Pin To Net: NetName=FIRSTPORTC Bit 7 Pin=*-58
+Added Pin To Net: NetName=FIRSTPORTC Bit 6 Pin=*-59
+Added Pin To Net: NetName=FIRSTPORTC Bit 5 Pin=*-60
+Added Pin To Net: NetName=FIRSTPORTC Bit 4 Pin=*-61
+Added Pin To Net: NetName=FIRSTPORTC Bit 3 Pin=*-62
+Added Pin To Net: NetName=FIRSTPORTC Bit 2 Pin=*-63
+Added Pin To Net: NetName=FIRSTPORTC Bit 1 Pin=*-64
+Added Pin To Net: NetName=FIRSTPORTC Bit 0 Pin=*-65
+Added Pin To Net: NetName=+5V Pin=*-68
+Added Pin To Net: NetName=Digital Ground 2 Pin=*-70
+Added Pin To Net: NetName=Vout 0 Pin=ST1-1
+Added Pin To Net: NetName=Analog Ground 1 Pin=ST1-2
+Added Pin To Net: NetName=Vout 1 Pin=ST1-3
+Added Pin To Net: NetName=Analog Ground 2 Pin=ST1-4
+Added Pin To Net: NetName=Vout 2 Pin=ST1-5
+Added Pin To Net: NetName=Analog Ground 3 Pin=ST1-6
+Added Pin To Net: NetName=Vout 3 Pin=ST1-7
+Added Pin To Net: NetName=Analog Ground 4 Pin=ST1-8
+Added Pin To Net: NetName=Vout 4 Pin=ST1-9
+Added Pin To Net: NetName=Analog Ground 5 Pin=ST1-10
+Added Pin To Net: NetName=Vout 5 Pin=ST2-1
+Added Pin To Net: NetName=Analog Ground 6 Pin=ST2-2
+Added Pin To Net: NetName=Vout 6 Pin=ST2-3
+Added Pin To Net: NetName=Analog Ground 7 Pin=ST2-4
+Added Pin To Net: NetName=Vout 7 Pin=ST2-5
+Added Pin To Net: NetName=Analog Ground 8 Pin=ST2-6
+Added Pin To Net: NetName=Digital Ground 1 Pin=ST2-7
+Added Pin To Net: NetName=SECONDPORTA Bit 7 Pin=ST2-8
+Added Pin To Net: NetName=SECONDPORTA Bit 6 Pin=ST2-9
+Added Pin To Net: NetName=SECONDPORTA Bit 5 Pin=ST2-10
+Added Pin To Net: NetName=SECONDPORTA Bit 4 Pin=ST3-1
+Added Pin To Net: NetName=SECONDPORTA Bit 3 Pin=ST3-2
+Added Pin To Net: NetName=SECONDPORTA Bit 2 Pin=ST3-3
+Added Pin To Net: NetName=SECONDPORTA Bit 1 Pin=ST3-4
+Added Pin To Net: NetName=SECONDPORTA Bit 0 Pin=ST3-5
+Added Pin To Net: NetName=SECONDPORTB Bit 7 Pin=ST3-6
+Added Pin To Net: NetName=SECONDPORTB Bit 6 Pin=ST3-7
+Added Pin To Net: NetName=SECONDPORTB Bit 5 Pin=ST3-8
+Added Pin To Net: NetName=SECONDPORTB Bit 4 Pin=ST3-9
+Added Pin To Net: NetName=SECONDPORTB Bit 3 Pin=ST3-10
+Added Pin To Net: NetName=SECONDPORTB Bit 2 Pin=ST4-1
+Added Pin To Net: NetName=SECONDPORTB Bit 1 Pin=ST4-2
+Added Pin To Net: NetName=SECONDPORTB Bit 0 Pin=ST4-3
+Added Pin To Net: NetName=SECONDPORTC Bit 7 Pin=ST4-4
+Added Pin To Net: NetName=SECONDPORTC Bit 6 Pin=ST4-5
+Added Pin To Net: NetName=SECONDPORTC Bit 5 Pin=ST4-6
+Added Pin To Net: NetName=SECONDPORTC Bit 4 Pin=ST4-7
+Added Pin To Net: NetName=SECONDPORTC Bit 3 Pin=ST4-8
+Added Pin To Net: NetName=SECONDPORTC Bit 2 Pin=ST4-9
+Added Pin To Net: NetName=SECONDPORTC Bit 1 Pin=ST4-10
+Added Pin To Net: NetName=SECONDPORTC Bit 0 Pin=ST5-1
+Added Pin To Net: NetName=FIRSTPORTA Bit 7 Pin=ST5-2
+Added Pin To Net: NetName=FIRSTPORTA Bit 6 Pin=ST5-3
+Added Pin To Net: NetName=FIRSTPORTA Bit 5 Pin=ST5-4
+Added Pin To Net: NetName=FIRSTPORTA Bit 4 Pin=ST5-5
+Added Pin To Net: NetName=FIRSTPORTA Bit 3 Pin=ST5-6
+Added Pin To Net: NetName=FIRSTPORTA Bit 2 Pin=ST5-7
+Added Pin To Net: NetName=FIRSTPORTA Bit 1 Pin=ST5-8
+Added Pin To Net: NetName=FIRSTPORTA Bit 0 Pin=ST5-9
+Added Pin To Net: NetName=FIRSTPORTB Bit 7 Pin=ST5-10
+Added Pin To Net: NetName=FIRSTPORTB Bit 6 Pin=ST6-1
+Added Pin To Net: NetName=FIRSTPORTB Bit 5 Pin=ST6-2
+Added Pin To Net: NetName=FIRSTPORTB Bit 4 Pin=ST6-3
+Added Pin To Net: NetName=FIRSTPORTB Bit 3 Pin=ST6-4
+Added Pin To Net: NetName=FIRSTPORTB Bit 2 Pin=ST6-5
+Added Pin To Net: NetName=FIRSTPORTB Bit 1 Pin=ST6-6
+Added Pin To Net: NetName=FIRSTPORTB Bit 0 Pin=ST6-7
+Added Pin To Net: NetName=FIRSTPORTC Bit 7 Pin=ST6-8
+Added Pin To Net: NetName=FIRSTPORTC Bit 6 Pin=ST6-9
+Added Pin To Net: NetName=FIRSTPORTC Bit 5 Pin=ST6-10
+Added Pin To Net: NetName=FIRSTPORTC Bit 4 Pin=ST7-1
+Added Pin To Net: NetName=FIRSTPORTC Bit 3 Pin=ST7-2
+Added Pin To Net: NetName=FIRSTPORTC Bit 2 Pin=ST7-3
+Added Pin To Net: NetName=FIRSTPORTC Bit 1 Pin=ST7-4
+Added Pin To Net: NetName=FIRSTPORTC Bit 0 Pin=ST7-5
+Added Pin To Net: NetName=+5V Pin=ST7-8
+Added Pin To Net: NetName=Digital Ground 2 Pin=ST7-10
+Added Member To Class: ClassName=Screw Terminal Schematic Sheet Member=Component * Header to screw terminals
+Added Member To Class: ClassName=Screw Terminal Schematic Sheet Member=Component ST1 1-10
+Added Member To Class: ClassName=Screw Terminal Schematic Sheet Member=Component ST2 10-20
+Added Member To Class: ClassName=Screw Terminal Schematic Sheet Member=Component ST3 20-30
+Added Member To Class: ClassName=Screw Terminal Schematic Sheet Member=Component ST4 30-40
+Added Member To Class: ClassName=Screw Terminal Schematic Sheet Member=Component ST5 40-50
+Added Member To Class: ClassName=Screw Terminal Schematic Sheet Member=Component ST6 50-60
+Added Member To Class: ClassName=Screw Terminal Schematic Sheet Member=Component ST7 60-70
+Added Room: Name=Screw Terminal Schematic Sheet

@@ -1,0 +1,211 @@
+Added Component: Designator=*(Screw Terminal)
+Added Component: Designator=*(Screw Terminal)
+Added Component: Designator=*(Screw Terminal)
+Added Component: Designator=*(Screw Terminal)
+Added Component: Designator=*(Screw Terminal)
+Added Component: Designator=*(Header)
+Added Component: Designator=*(Screw Terminal)
+Added Component: Designator=*(Screw Terminal)
+Added Pin To Net: NetName=+5V Pin=*-8
+Added Pin To Net: NetName=+5V Pin=*-68
+Added Net: Name=+5V
+Added Pin To Net: NetName=Analog Ground 1 Pin=*-2
+Added Pin To Net: NetName=Analog Ground 1 Pin=*-2
+Added Net: Name=Analog Ground 1
+Added Pin To Net: NetName=Analog Ground 2 Pin=*-4
+Added Pin To Net: NetName=Analog Ground 2 Pin=*-4
+Added Net: Name=Analog Ground 2
+Added Pin To Net: NetName=Analog Ground 3 Pin=*-6
+Added Pin To Net: NetName=Analog Ground 3 Pin=*-6
+Added Net: Name=Analog Ground 3
+Added Pin To Net: NetName=Analog Ground 4 Pin=*-8
+Added Pin To Net: NetName=Analog Ground 4 Pin=*-8
+Added Net: Name=Analog Ground 4
+Added Pin To Net: NetName=Analog Ground 5 Pin=*-10
+Added Pin To Net: NetName=Analog Ground 5 Pin=*-10
+Added Net: Name=Analog Ground 5
+Added Pin To Net: NetName=Analog Ground 6 Pin=*-2
+Added Pin To Net: NetName=Analog Ground 6 Pin=*-12
+Added Net: Name=Analog Ground 6
+Added Pin To Net: NetName=Analog Ground 7 Pin=*-4
+Added Pin To Net: NetName=Analog Ground 7 Pin=*-14
+Added Net: Name=Analog Ground 7
+Added Pin To Net: NetName=Analog Ground 8 Pin=*-6
+Added Pin To Net: NetName=Analog Ground 8 Pin=*-16
+Added Net: Name=Analog Ground 8
+Added Pin To Net: NetName=Digital Ground 1 Pin=*-7
+Added Pin To Net: NetName=Digital Ground 1 Pin=*-17
+Added Net: Name=Digital Ground 1
+Added Pin To Net: NetName=Digital Ground 2 Pin=*-10
+Added Pin To Net: NetName=Digital Ground 2 Pin=*-70
+Added Net: Name=Digital Ground 2
+Added Pin To Net: NetName=FIRSTPORTA Bit 0 Pin=*-9
+Added Pin To Net: NetName=FIRSTPORTA Bit 0 Pin=*-49
+Added Net: Name=FIRSTPORTA Bit 0
+Added Pin To Net: NetName=FIRSTPORTA Bit 1 Pin=*-8
+Added Pin To Net: NetName=FIRSTPORTA Bit 1 Pin=*-48
+Added Net: Name=FIRSTPORTA Bit 1
+Added Pin To Net: NetName=FIRSTPORTA Bit 2 Pin=*-7
+Added Pin To Net: NetName=FIRSTPORTA Bit 2 Pin=*-47
+Added Net: Name=FIRSTPORTA Bit 2
+Added Pin To Net: NetName=FIRSTPORTA Bit 3 Pin=*-6
+Added Pin To Net: NetName=FIRSTPORTA Bit 3 Pin=*-46
+Added Net: Name=FIRSTPORTA Bit 3
+Added Pin To Net: NetName=FIRSTPORTA Bit 4 Pin=*-5
+Added Pin To Net: NetName=FIRSTPORTA Bit 4 Pin=*-45
+Added Net: Name=FIRSTPORTA Bit 4
+Added Pin To Net: NetName=FIRSTPORTA Bit 5 Pin=*-4
+Added Pin To Net: NetName=FIRSTPORTA Bit 5 Pin=*-44
+Added Net: Name=FIRSTPORTA Bit 5
+Added Pin To Net: NetName=FIRSTPORTA Bit 6 Pin=*-3
+Added Pin To Net: NetName=FIRSTPORTA Bit 6 Pin=*-43
+Added Net: Name=FIRSTPORTA Bit 6
+Added Pin To Net: NetName=FIRSTPORTA Bit 7 Pin=*-2
+Added Pin To Net: NetName=FIRSTPORTA Bit 7 Pin=*-42
+Added Net: Name=FIRSTPORTA Bit 7
+Added Pin To Net: NetName=FIRSTPORTB Bit 0 Pin=*-7
+Added Pin To Net: NetName=FIRSTPORTB Bit 0 Pin=*-57
+Added Net: Name=FIRSTPORTB Bit 0
+Added Pin To Net: NetName=FIRSTPORTB Bit 1 Pin=*-6
+Added Pin To Net: NetName=FIRSTPORTB Bit 1 Pin=*-56
+Added Net: Name=FIRSTPORTB Bit 1
+Added Pin To Net: NetName=FIRSTPORTB Bit 2 Pin=*-5
+Added Pin To Net: NetName=FIRSTPORTB Bit 2 Pin=*-55
+Added Net: Name=FIRSTPORTB Bit 2
+Added Pin To Net: NetName=FIRSTPORTB Bit 3 Pin=*-4
+Added Pin To Net: NetName=FIRSTPORTB Bit 3 Pin=*-54
+Added Net: Name=FIRSTPORTB Bit 3
+Added Pin To Net: NetName=FIRSTPORTB Bit 4 Pin=*-3
+Added Pin To Net: NetName=FIRSTPORTB Bit 4 Pin=*-53
+Added Net: Name=FIRSTPORTB Bit 4
+Added Pin To Net: NetName=FIRSTPORTB Bit 5 Pin=*-2
+Added Pin To Net: NetName=FIRSTPORTB Bit 5 Pin=*-52
+Added Net: Name=FIRSTPORTB Bit 5
+Added Pin To Net: NetName=FIRSTPORTB Bit 6 Pin=*-1
+Added Pin To Net: NetName=FIRSTPORTB Bit 6 Pin=*-51
+Added Net: Name=FIRSTPORTB Bit 6
+Added Pin To Net: NetName=FIRSTPORTB Bit 7 Pin=*-10
+Added Pin To Net: NetName=FIRSTPORTB Bit 7 Pin=*-50
+Added Net: Name=FIRSTPORTB Bit 7
+Added Pin To Net: NetName=FIRSTPORTC Bit 0 Pin=*-5
+Added Pin To Net: NetName=FIRSTPORTC Bit 0 Pin=*-65
+Added Net: Name=FIRSTPORTC Bit 0
+Added Pin To Net: NetName=FIRSTPORTC Bit 1 Pin=*-4
+Added Pin To Net: NetName=FIRSTPORTC Bit 1 Pin=*-64
+Added Net: Name=FIRSTPORTC Bit 1
+Added Pin To Net: NetName=FIRSTPORTC Bit 2 Pin=*-3
+Added Pin To Net: NetName=FIRSTPORTC Bit 2 Pin=*-63
+Added Net: Name=FIRSTPORTC Bit 2
+Added Pin To Net: NetName=FIRSTPORTC Bit 3 Pin=*-2
+Added Pin To Net: NetName=FIRSTPORTC Bit 3 Pin=*-62
+Added Net: Name=FIRSTPORTC Bit 3
+Added Pin To Net: NetName=FIRSTPORTC Bit 4 Pin=*-1
+Added Pin To Net: NetName=FIRSTPORTC Bit 4 Pin=*-61
+Added Net: Name=FIRSTPORTC Bit 4
+Added Pin To Net: NetName=FIRSTPORTC Bit 5 Pin=*-10
+Added Pin To Net: NetName=FIRSTPORTC Bit 5 Pin=*-60
+Added Net: Name=FIRSTPORTC Bit 5
+Added Pin To Net: NetName=FIRSTPORTC Bit 6 Pin=*-9
+Added Pin To Net: NetName=FIRSTPORTC Bit 6 Pin=*-59
+Added Net: Name=FIRSTPORTC Bit 6
+Added Pin To Net: NetName=FIRSTPORTC Bit 7 Pin=*-8
+Added Pin To Net: NetName=FIRSTPORTC Bit 7 Pin=*-58
+Added Net: Name=FIRSTPORTC Bit 7
+Added Pin To Net: NetName=SECONDPORTA Bit 0 Pin=*-5
+Added Pin To Net: NetName=SECONDPORTA Bit 0 Pin=*-25
+Added Net: Name=SECONDPORTA Bit 0
+Added Pin To Net: NetName=SECONDPORTA Bit 1 Pin=*-4
+Added Pin To Net: NetName=SECONDPORTA Bit 1 Pin=*-24
+Added Net: Name=SECONDPORTA Bit 1
+Added Pin To Net: NetName=SECONDPORTA Bit 2 Pin=*-3
+Added Pin To Net: NetName=SECONDPORTA Bit 2 Pin=*-23
+Added Net: Name=SECONDPORTA Bit 2
+Added Pin To Net: NetName=SECONDPORTA Bit 3 Pin=*-2
+Added Pin To Net: NetName=SECONDPORTA Bit 3 Pin=*-22
+Added Net: Name=SECONDPORTA Bit 3
+Added Pin To Net: NetName=SECONDPORTA Bit 4 Pin=*-1
+Added Pin To Net: NetName=SECONDPORTA Bit 4 Pin=*-21
+Added Net: Name=SECONDPORTA Bit 4
+Added Pin To Net: NetName=SECONDPORTA Bit 5 Pin=*-10
+Added Pin To Net: NetName=SECONDPORTA Bit 5 Pin=*-20
+Added Net: Name=SECONDPORTA Bit 5
+Added Pin To Net: NetName=SECONDPORTA Bit 6 Pin=*-9
+Added Pin To Net: NetName=SECONDPORTA Bit 6 Pin=*-19
+Added Net: Name=SECONDPORTA Bit 6
+Added Pin To Net: NetName=SECONDPORTA Bit 7 Pin=*-8
+Added Pin To Net: NetName=SECONDPORTA Bit 7 Pin=*-18
+Added Net: Name=SECONDPORTA Bit 7
+Added Pin To Net: NetName=SECONDPORTB Bit 0 Pin=*-3
+Added Pin To Net: NetName=SECONDPORTB Bit 0 Pin=*-33
+Added Net: Name=SECONDPORTB Bit 0
+Added Pin To Net: NetName=SECONDPORTB Bit 1 Pin=*-2
+Added Pin To Net: NetName=SECONDPORTB Bit 1 Pin=*-32
+Added Net: Name=SECONDPORTB Bit 1
+Added Pin To Net: NetName=SECONDPORTB Bit 2 Pin=*-1
+Added Pin To Net: NetName=SECONDPORTB Bit 2 Pin=*-31
+Added Net: Name=SECONDPORTB Bit 2
+Added Pin To Net: NetName=SECONDPORTB Bit 3 Pin=*-10
+Added Pin To Net: NetName=SECONDPORTB Bit 3 Pin=*-30
+Added Net: Name=SECONDPORTB Bit 3
+Added Pin To Net: NetName=SECONDPORTB Bit 4 Pin=*-9
+Added Pin To Net: NetName=SECONDPORTB Bit 4 Pin=*-29
+Added Net: Name=SECONDPORTB Bit 4
+Added Pin To Net: NetName=SECONDPORTB Bit 5 Pin=*-8
+Added Pin To Net: NetName=SECONDPORTB Bit 5 Pin=*-28
+Added Net: Name=SECONDPORTB Bit 5
+Added Pin To Net: NetName=SECONDPORTB Bit 6 Pin=*-7
+Added Pin To Net: NetName=SECONDPORTB Bit 6 Pin=*-27
+Added Net: Name=SECONDPORTB Bit 6
+Added Pin To Net: NetName=SECONDPORTB Bit 7 Pin=*-6
+Added Pin To Net: NetName=SECONDPORTB Bit 7 Pin=*-26
+Added Net: Name=SECONDPORTB Bit 7
+Added Pin To Net: NetName=SECONDPORTC Bit 0 Pin=*-1
+Added Pin To Net: NetName=SECONDPORTC Bit 0 Pin=*-41
+Added Net: Name=SECONDPORTC Bit 0
+Added Pin To Net: NetName=SECONDPORTC Bit 1 Pin=*-10
+Added Pin To Net: NetName=SECONDPORTC Bit 1 Pin=*-40
+Added Net: Name=SECONDPORTC Bit 1
+Added Pin To Net: NetName=SECONDPORTC Bit 2 Pin=*-9
+Added Pin To Net: NetName=SECONDPORTC Bit 2 Pin=*-39
+Added Net: Name=SECONDPORTC Bit 2
+Added Pin To Net: NetName=SECONDPORTC Bit 3 Pin=*-8
+Added Pin To Net: NetName=SECONDPORTC Bit 3 Pin=*-38
+Added Net: Name=SECONDPORTC Bit 3
+Added Pin To Net: NetName=SECONDPORTC Bit 4 Pin=*-7
+Added Pin To Net: NetName=SECONDPORTC Bit 4 Pin=*-37
+Added Net: Name=SECONDPORTC Bit 4
+Added Pin To Net: NetName=SECONDPORTC Bit 5 Pin=*-6
+Added Pin To Net: NetName=SECONDPORTC Bit 5 Pin=*-36
+Added Net: Name=SECONDPORTC Bit 5
+Added Pin To Net: NetName=SECONDPORTC Bit 6 Pin=*-5
+Added Pin To Net: NetName=SECONDPORTC Bit 6 Pin=*-35
+Added Net: Name=SECONDPORTC Bit 6
+Added Pin To Net: NetName=SECONDPORTC Bit 7 Pin=*-4
+Added Pin To Net: NetName=SECONDPORTC Bit 7 Pin=*-34
+Added Net: Name=SECONDPORTC Bit 7
+Added Pin To Net: NetName=Vout 0 Pin=*-1
+Added Pin To Net: NetName=Vout 0 Pin=*-1
+Added Net: Name=Vout 0
+Added Pin To Net: NetName=Vout 1 Pin=*-3
+Added Pin To Net: NetName=Vout 1 Pin=*-3
+Added Net: Name=Vout 1
+Added Pin To Net: NetName=Vout 2 Pin=*-5
+Added Pin To Net: NetName=Vout 2 Pin=*-5
+Added Net: Name=Vout 2
+Added Pin To Net: NetName=Vout 3 Pin=*-7
+Added Pin To Net: NetName=Vout 3 Pin=*-7
+Added Net: Name=Vout 3
+Added Pin To Net: NetName=Vout 4 Pin=*-9
+Added Pin To Net: NetName=Vout 4 Pin=*-9
+Added Net: Name=Vout 4
+Added Pin To Net: NetName=Vout 5 Pin=*-1
+Added Pin To Net: NetName=Vout 5 Pin=*-11
+Added Net: Name=Vout 5
+Added Pin To Net: NetName=Vout 6 Pin=*-3
+Added Pin To Net: NetName=Vout 6 Pin=*-13
+Added Net: Name=Vout 6
+Added Pin To Net: NetName=Vout 7 Pin=*-5
+Added Pin To Net: NetName=Vout 7 Pin=*-15
+Added Net: Name=Vout 7
+Added Class: Name=Screw Terminal Schematic Sheet
+Added Room: Name=Screw Terminal Schematic Sheet

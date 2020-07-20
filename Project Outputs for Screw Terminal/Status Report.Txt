@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Screw Terminal.PrjPcb]
+   Generated File[Screw Terminal PCB.TXT]
+   Generated File[Screw Terminal PCB.LDP]
+   Generated File[Screw Terminal PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:17:03 PM On 2020-07-08
